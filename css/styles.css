@@ -447,6 +447,12 @@ h1 span {
   padding-block: 11rem;
 }
 
+.project-sector + .project-sector {
+  margin-top: 8rem;
+  padding-top: 6rem;
+  border-top: 1px solid var(--line);
+}
+
 .sector-heading {
   display: flex;
   gap: 1.6rem;
